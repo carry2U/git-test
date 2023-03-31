@@ -21,9 +21,7 @@ hello git !!!
 hello git !!!
 hello git !!!
 -------------
-hello git !!!!
-hello git !!!!
-hello git !!!!
+ello git !!!!
 hello git !!!!
 hello git !!!!
 hello git !!!!
@@ -32,3 +30,4 @@ hello git !!!!
 hello git !!!!
 hello git !!!!
 ------------------
+batu
